@@ -1,0 +1,43 @@
+
+div{
+    box-sizing: border-box;
+}
+.container{
+    width: 100vw;
+}
+.widget{
+    margin-bottom: 10px;
+    height: 150pt;
+    width: 100vw;
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.widgets{
+    display: flex;
+    justify-content: space-between;
+}
+.inner-widget{
+    display: flex;
+    height: 130pt;
+    width: 32vw;
+    background: cornflowerblue;
+    align-items: center;
+    justify-content: center;
+}
+.contact{
+    display: flex;
+    margin-top: 10px;
+    height: 200pt;
+    width: 100vw;
+    background: cornflowerblue;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin: 0;
+    color: beige;
+    font-size: 30px;
+    text-align: center;
+}

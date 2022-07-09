@@ -1,0 +1,7 @@
+
+:not(img){
+    background: peachpuff;
+}
+img{
+    width: 300px;
+}
